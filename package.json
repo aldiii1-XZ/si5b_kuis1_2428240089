@@ -1,0 +1,26 @@
+{
+  "name": "si5b_kuis1_2428240089",
+  "version": "1.0.0",
+  "description": "Kuis PAW2 - Refactor RESTful API Tugas 1 ke arsitektur terstruktur (routes, controllers, models, middlewares) - Topik 23: Perikanan (Kolam Ikan)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "restful",
+    "api",
+    "mvc"
+  ],
+  "author": "Aldi Yonatan Rusnawan (2428240089)",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
