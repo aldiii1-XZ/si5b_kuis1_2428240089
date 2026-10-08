@@ -1,3 +1,6 @@
 # pengaturan rahasia - jangan diunggah
 .env
 node_modules/
+
+screenshot/
+.bukti/
